@@ -1,0 +1,17 @@
+[
+    {
+        "term": "function",
+        "description": "یک بلاک کد قابل استفاده مجدد که وظیفه مشخصی را انجام می‌دهد.",
+        "example": "def greet():\n    print(\"Hello!\")"
+    },
+    {
+        "term": "variable",
+        "description": "مکانی برای ذخیره اطلاعات در حافظه.",
+        "example": "x = 10"
+    },
+    {
+        "term": "loop",
+        "description": "ساختاری که برای اجرای مکرر یک مجموعه دستورات استفاده می‌شود.",
+        "example": "for i in range(5):\n    print(i)"
+    }
+]
